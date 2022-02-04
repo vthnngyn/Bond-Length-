@@ -4,3 +4,5 @@ The code takes an .xyz file or xyz coordinates for atoms of a molecules and calc
 The average and the standard deviation of the bond lengths are calculated. 
 
 The coordination number for each atom is also calculated by counting the number of other atoms that a bond length was calculated for. 
+
+coords.xyz is a sample file for bl.py to use
