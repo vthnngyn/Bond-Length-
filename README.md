@@ -1,8 +1,6 @@
 # Bond Length
-The code takes an .xyz file or xyz coordinates for atoms of a molecules and calculates the bond length between each atom with an upper length limit of L. 
+The code takes an .xyz file or xyz coordinates of atomic coordinates and calculates the bond length (with the average and standard deviation) between each atom up to an inputted upper limit.  
 
-The average and the standard deviation of the bond lengths are calculated. 
+The coordination number per each atom is calculated by counting the number of other atoms that atom has a counted bond length with. 
 
-The coordination number for an atom is calculated by counting the number of other atoms that atom has a bond length under L with. 
-
-coords.xyz is a sample file for bl.py to use
+example.xyz is a sample input file. 
