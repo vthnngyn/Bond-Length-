@@ -2,7 +2,6 @@ import math
 import numpy as np
 import statistics 
 from statistics import mean
-#from tabulate import tabulate
 from prettytable import PrettyTable
 
 #xyz file to be read 
