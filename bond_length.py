@@ -22,7 +22,6 @@ print(atom_table)
 #choose an upper limit to define bond desired bonded length
 L_input = input ("Upper limit for desired bond length (units defined by inputted file):")
 L_float = float(L_input)
-
 bond = []
 coord = []
 coordtwo = []
