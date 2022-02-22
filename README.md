@@ -1,4 +1,4 @@
-# Python Script - Calculate Bond Lengths & Coordination Numbers
+# Calculate Bond Lengths & Coordination Numbers
 
 A python script to calculate the bond lengths and atomic coordination between xyz-based atomic coordinates
 
